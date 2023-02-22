@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Penjualan Mobil</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+	<header>
+		<h1>Penjualan Mobil</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Tentang Kami</a></li>
+				<li><a href="#">Mobil</a></li>
+				<li><a href="#">Kontak</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<h2>Daftar Mobil</h2>
+		<ul>
+			<li>
+                <img src="gambar/mobil1.jpg" alt="Mobil 1">
+				<h3>Mobil 1</h3>
+				<p>Harga: Rp 100.000.000</p>
+				<p>Deskripsi: Deskripsi mobil 1</p>
+			</li>
+			<li>
+				<img src="gambar/mobil2.jpg" alt="Mobil 2">
+				<h3>Mobil 2</h3>
+				<p>Harga: Rp 200.000.000</p>
+				<p>Deskripsi: Deskripsi mobil 2</p>
+			</li>
+			<li>
+				<img src="gambar/mobil3.jpg" alt="Mobil 3">
+				<h3>Mobil 3</h3>
+				<p>Harga: Rp 300.000.000</p>
+				<p>Deskripsi: Deskripsi mobil 3</p>
+			</li>
+		</ul>
+	</main>
+
+	<footer>
+		<p>Hak Cipta © 2023 Penjualan Mobil</p>
+	</footer>
+
+</body>
+</html>
